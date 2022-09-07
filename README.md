@@ -1,1 +1,0 @@
-# zen_event_management_backend
